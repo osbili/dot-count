@@ -1,0 +1,4 @@
+"0","#| label: Label the maxima and count the number of flies"
+"0",""
+"0","cleaned_image <- opening(bw_image, makeBrush(9, shape = 'disc'))"
+"0","display(cleaned_image, method = ""raster"")"

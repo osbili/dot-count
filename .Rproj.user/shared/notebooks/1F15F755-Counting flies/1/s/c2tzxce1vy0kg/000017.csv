@@ -1,0 +1,3 @@
+"0","#| label: Apply adaptive thresholding to get a binary image"
+"0","bw_image <- thresh(gray_image, w = 15, h = 15, offset = 0.04)  # Adaptive thresholding"
+"0","display(bw_image, method = ""raster"")  # Display the binary image"

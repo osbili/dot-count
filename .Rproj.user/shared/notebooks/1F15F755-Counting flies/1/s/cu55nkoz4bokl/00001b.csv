@@ -1,0 +1,3 @@
+"0","#| label: Load the image"
+"0","image <- readImage(""/Users/can/Desktop/dot count/test1.jpg"")"
+"0","display(image, method = ""raster"")  # Display the original image"
